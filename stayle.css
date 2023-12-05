@@ -142,12 +142,12 @@ ul li a{
 h6{
     text-decoration: none;
     list-style-type: none;   
-    color: gray;
+    color: rgb(255, 255, 255);
 }
 h5{
     text-decoration: none;
     list-style-type: none;
-    color: rgb(51, 49, 49);
+    color: rgb(255, 255, 255);
     /* margin-bottom: 100px; */
     
 }
@@ -155,6 +155,7 @@ h4{
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    font-weight: 900;
    margin-bottom: 10px;
+   color: rgb(255, 255, 255);
 }
 h3{
     font-weight: 900;
